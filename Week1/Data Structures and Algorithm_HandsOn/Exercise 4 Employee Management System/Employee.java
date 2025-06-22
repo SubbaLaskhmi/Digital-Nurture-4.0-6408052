@@ -1,11 +1,11 @@
-package cts;
+package EmployeeManagementSystem;
 
-class Employee {
-    private String employeeId;
+public class Employee {
+
+	private String employeeId;
     private String name;
     private String position;
     private double salary;
-
     public Employee(String employeeId, String name, String position, double salary) {
         this.employeeId = employeeId;
         this.name = name;
