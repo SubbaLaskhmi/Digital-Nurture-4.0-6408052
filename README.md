@@ -10,6 +10,7 @@
 📁 Repository Structure
 
 This repository contains hands-on exercises and design pattern implementations completed during the "CTS Digital Nurture 4.0" program. Each file follows the official Digital Nurture 4.0 submission guidelines.
+
 ---
 
 📦 Modules Covered
@@ -29,6 +30,7 @@ Week 1 –  Design Patterns + Data Structures & Algorithm
 ✅ Command Pattern
 ✅ MVC Pattern
 ✅ Dependency Injection
+
 ---
 
 🛠️ Technologies Used
