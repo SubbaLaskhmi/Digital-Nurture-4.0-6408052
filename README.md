@@ -8,10 +8,12 @@
 ---
 
 📁 Repository Structure
+
 This repository contains hands-on exercises and design pattern implementations completed during the "CTS Digital Nurture 4.0" program. Each file follows the official Digital Nurture 4.0 submission guidelines.
 ---
 
 📦 Modules Covered
+
 Week 1 –  Design Patterns + Data Structures & Algorithm
 ✅ Inventory Management 
 ✅ E-commerce Search Function 
@@ -30,12 +32,14 @@ Week 1 –  Design Patterns + Data Structures & Algorithm
 ---
 
 🛠️ Technologies Used
+
 - Java 17
 - Git & GitHub
 - Eclipse IDE
 ---
 
 📬 Contact
+
 📧 Email: bvsubbalakshmi1805@gmail.com
 ---
 
