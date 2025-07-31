@@ -63,6 +63,26 @@ This repository contains hands-on exercises and design pattern implementations c
 
 ---
 
+### Week 5 – Spring Data JPA & ORM
+✅ORM Setup with Spring Boot and MySQL
+✅Country Management using Spring Data JPA
+✅CRUD Operations using Repository Layer
+✅Query Methods in Spring JPA
+✅Pagination and Sorting
+✅Relationships (OneToMany, ManyToOne, etc.)
+
+---
+
+### Week 6 – Spring Boot Project Development
+✅Library Management System using Spring Boot
+✅RESTful CRUD APIs for Books and Members
+✅H2 Database Integration
+✅Data Initialization using CommandLineRunner
+✅Postman Testing for API Endpoints
+✅Project Structure following MVC Architecture
+
+---
+
 🛠 Technologies Used
 
 - Java 17  
@@ -72,7 +92,10 @@ This repository contains hands-on exercises and design pattern implementations c
 - Spring Boot  
 - Spring Core  
 - Spring Data JPA  
-- REST APIs  
+- REST APIs
+- H2 Database
+- Postman
+- React
 
 ---
 
