@@ -73,16 +73,6 @@ This repository contains hands-on exercises and design pattern implementations c
 
 ---
 
-### Week 6 – Spring Boot Project Development
-✅Library Management System using Spring Boot  
-✅RESTful CRUD APIs for Books and Members  
-✅H2 Database Integration  
-✅Data Initialization using CommandLineRunner  
-✅Postman Testing for API Endpoints  
-✅Project Structure following MVC Architecture  
-
----
-
 🛠 Technologies Used
 
 - Java 17  
